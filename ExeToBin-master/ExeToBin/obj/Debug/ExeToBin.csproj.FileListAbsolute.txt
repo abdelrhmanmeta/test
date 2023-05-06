@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\bin\Debug\ExeToBin.exe.config
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\bin\Debug\ExeToBin.exe
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\bin\Debug\ExeToBin.pdb
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\bin\Debug\MaterialSkin.dll
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.Form1.resources
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.Properties.Resources.resources
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.exe
+C:\Users\PC\Downloads\ExeToBin-master\ExeToBin-master\ExeToBin\obj\Debug\ExeToBin.pdb
